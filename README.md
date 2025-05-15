@@ -1,3 +1,5 @@
+https://www.imhim837/github.com/termux/termux-app/releases/tag/v0.118.2
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://support.crowdin.com/assets/logos/symbol/png/crowdin-symbol-cWhite.png">
